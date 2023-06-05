@@ -6,7 +6,7 @@
 Built entirely using the React.js framework, this project is meant to be a showcase of my personal skills, education, projects and act as a means for employers to contact me. Basically a fancy resume. This project was a lot of fun to build and I learned a ton of things about React, as it was largely my first big project using React.
 
 ## About
-🌩️ Built using React.js Vite, and Node.js
+🌩️ Built using React.js, Vite, and Node.js
 
 🎬 Animated using Framer Motion
 
