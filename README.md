@@ -22,6 +22,9 @@ Built entirely using the React.js framework, this project is meant to be a showc
 
 🧹 Clean, scalable, and reusable code, featuring industry best practices
 
+## Known Issues
+- The Skills section doesn't work properly on some mobile devices, resulting in a the entire section not loading
+
 ## Credits
 I can't take full credit for the amazing design. While I did perform a complete project overhaul, the original design is credited to the talented Javascript Mastery https://youtu.be/0fYi8SGA20k
 
